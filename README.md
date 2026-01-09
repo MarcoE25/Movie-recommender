@@ -42,7 +42,7 @@ Uno de los mayores logros de este proyecto fue la gestión de la eficiencia comp
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Lenguaje:** `Python 3.x`
+* **Lenguaje:** `Python 3.11`
 * **Análisis de Datos:** `Pandas`, `NumPy`, `SciPy` (Spearman Rank Correlation)
 * **Deployment:** `Streamlit Cloud`
 * **Serialización:** `Pickle` (Binary serialization)
@@ -77,4 +77,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ![Preview del Recomendador](img/image.png)
+
 

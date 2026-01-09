@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender AI: Collaborative Filtering & Memory Optimization
+# 🎬 Movie Recommender: Collaborative Filtering & Memory Optimization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -77,3 +77,4 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ![Preview del Recomendador](img/image.png)
+

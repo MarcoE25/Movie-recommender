@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Python (archivos temporales)
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Datos pesados (opcional, si tienes los CSV originales en tu carpeta)
+*.csv

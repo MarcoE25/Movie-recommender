@@ -57,4 +57,21 @@ movie-recommender/
 ├── requirements.txt    # Dependencias del proyecto.
 ├── data/               # Matriz de afinidad cuantizada (user_movie_matrix.pkl).
 └── notebooks/          # ETL, análisis exploratorio y validación de modelos.
+```
+## 🚀 Instalación y Uso Local
 
+Sigue estos pasos para configurar el entorno y ejecutar el recomendador en tu máquina local:
+
+### 1. Clonar el repositorio
+Obtén una copia local del proyecto utilizando Git:
+```bash
+git clone [https://github.com/tu-usuario/movie-recommender.git](https://github.com/tu-usuario/movie-recommender.git)
+cd movie-recommender
+```
+### 2. Instalar dependencias
+```bash
+pip install -r requirements.txt
+```
+### 3. Lanzar aplicacion
+```bash
+streamlit run app.py

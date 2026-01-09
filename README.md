@@ -75,3 +75,5 @@ pip install -r requirements.txt
 ### 3. Lanzar aplicacion
 ```bash
 streamlit run app.py
+```
+![Preview del Recomendador](img/image.png)
